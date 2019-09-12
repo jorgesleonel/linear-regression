@@ -45,5 +45,5 @@ The partial derivatives are the gradients and they are used to update the values
 2. The number of steps taken is the learning rate (𝛼 below). This decides on how fast the algorithm converges to the minima.
 Alpha is the learning rate which is a hyperparameter that you must specify. A smaller learning rate could get you closer to the minima but takes more time to reach the minima. A larger learning rate converges sooner but there is a chance that you could overshoot the minima.
 
-[!Regression] (https://i.pinimg.com/originals/ea/08/8a/ea088aec8952b49eedd7cf16b58cd283.jpg)
+[!Regression](http://rasbt.github.io/mlxtend/user_guide/regressor/LinearRegression_files/simple_regression.png)
 
